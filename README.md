@@ -1,6 +1,7 @@
 # MEDISYM
 
 ### 증상 검색을 통한 약 찾기
+https://youtube.com/watch?v=Kmbm2A_vZdQ&si=_q1WrXqfs5latBvw
 증상 검색을 통해 내 증상에 맞는 약을 찾고, 즐겨찾기 표시를 할 수 있다.
 <img src="https://github.com/jungeun123/android-project/assets/147065885/a1b019e9-befe-4e28-9c5d-f02478c0cf86" width="450px" height="180px"></img>
 
